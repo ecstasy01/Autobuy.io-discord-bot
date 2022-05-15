@@ -16,4 +16,4 @@ All in one discord bot for autobuy.io
 <br>
 [>] Remove product: Removes a product from your shop
 <br>
-[>] Redeem order id: Gives user a customer role (order is can only be used once)
+[>] Redeem order id: Gives user a customer role (order id can only be used once)
