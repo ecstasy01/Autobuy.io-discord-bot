@@ -26,3 +26,8 @@ All in one discord bot for autobuy.io
 [>] (prefix)remove (order id)
 <br>
 [>] (prefix)redeem (order id)
+
+# Images
+<img src="https://cdn.discordapp.com/attachments/974956416949428284/975205042363719710/unknown.png" width="350" alt="Preview">
+<img src="https://media.discordapp.net/attachments/974956416949428284/975205368760258580/unknown.png" width="350" alt="Preview">
+<img src="https://media.discordapp.net/attachments/974956416949428284/975205519079931954/unknown.png" width="350" alt="Preview">
