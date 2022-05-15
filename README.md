@@ -10,7 +10,7 @@ All in one discord bot for autobuy.io
 
 
 # Features
-[>] Check order: [Status, Cost, Product, Email, Ip, Custom feilds]
+[>] Check order: [Status, Cost, Product, Email, Ip, Custom fields]
 <br>
 [>] Show stock: [Product name, Price, Stock]
 <br>
